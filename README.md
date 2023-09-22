@@ -7,7 +7,7 @@ from sqlalchemy import create_engine
 dbhost = "localhost"
 dbport = "5432"
 dbname = "teljohj"
-dbuser = "Leo"
+dbuser = "Nath"
 dbpassword = "123456"
 
 
